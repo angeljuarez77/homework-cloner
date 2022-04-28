@@ -14,5 +14,8 @@
   },
   "scripts": {
     "run-file": "node --loader ts-node/esm index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
   }
 }
